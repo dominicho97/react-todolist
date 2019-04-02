@@ -2,14 +2,14 @@ import React, { Component } from "react";
 
 import "./App.css";
 
-class App extends Component {
+class Todos extends Component {
   render() {
     return (
-      <div className="App">
-        <h1>App</h1>
+      <div>
+        <h1>Todos</h1>
       </div>
     );
   }
 }
 
-export default App;
+export default Todos;
